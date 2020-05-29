@@ -3,8 +3,10 @@
 # @Author : Administrator
 # @File : develop.py
 # @Software: PyCharm
-# @Motto: good good study,day day up
+# @Motto: good good study,day day up.
+
 from .base import *  # NOQA
+
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
